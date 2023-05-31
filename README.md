@@ -1,6 +1,6 @@
 # Mission-to-Mars-Challenge
 ## Overview 
-This new assignment consists of two technical products. 
+This assignment consists of two technical products. 
 
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 
